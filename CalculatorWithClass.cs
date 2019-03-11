@@ -1,5 +1,5 @@
 ﻿/*  Calculadora v.0.1
- * Funções de Soma, Subtração, Multipicação, Divisão, Potência e Resto.
+ * Funções de Soma, Subtração, Multiplicação, Divisão, Potência e Resto.
  * Uso de Funções e Classe como método de estudo/resumo de aplicação.
  * @@@@@@@@@@@@@@     @@@      @@@
  * @@@@@@@@@@@@@@     @@@      @@@
@@ -16,7 +16,7 @@
 using System;
 using System.Linq;
 
-namespace ConsoleApplication1
+namespace CalculatorApp
 {
     class Program
     {
